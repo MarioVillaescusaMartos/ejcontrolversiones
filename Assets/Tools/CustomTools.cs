@@ -23,6 +23,8 @@ public class CustomToolsExercise : MonoBehaviour
     private static float minRot = 0;
     private static float maxRot = 360;
 
+    //Modificacion 4.1
+
     //Tramsforms de posición
     [MenuItem("EjercicioAutomaticacion//Copy coordinates", false, 1)]
     public static void CopyCoordinates()
